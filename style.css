@@ -48,3 +48,18 @@ border-radius:10px;
 background:#0b7d6e;
 color:white;
 }
+function deposit(){
+    alert("Deposit Page Coming Soon");
+}
+
+function withdraw(){
+    alert("Withdraw Page Coming Soon");
+}
+
+function playGame(){
+    alert("Game Coming Soon");
+}
+
+function profile(){
+    alert("Profile Coming Soon");
+}
